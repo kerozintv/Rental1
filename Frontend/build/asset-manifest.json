@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a02b62b9.chunk.css",
+    "main.js": "/static/js/main.00d1bf8d.chunk.js",
+    "main.js.map": "/static/js/main.00d1bf8d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0233debd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0233debd.js.map",
+    "static/css/2.0db61e4e.chunk.css": "/static/css/2.0db61e4e.chunk.css",
+    "static/js/2.c7bf82a0.chunk.js": "/static/js/2.c7bf82a0.chunk.js",
+    "static/js/2.c7bf82a0.chunk.js.map": "/static/js/2.c7bf82a0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.0db61e4e.chunk.css.map": "/static/css/2.0db61e4e.chunk.css.map",
+    "static/css/main.a02b62b9.chunk.css.map": "/static/css/main.a02b62b9.chunk.css.map",
+    "static/js/2.c7bf82a0.chunk.js.LICENSE.txt": "/static/js/2.c7bf82a0.chunk.js.LICENSE.txt",
+    "static/media/Car_ad2.baf8d808.png": "/static/media/Car_ad2.baf8d808.png",
+    "static/media/adatkezelesi.e446f2c4.pdf": "/static/media/adatkezelesi.e446f2c4.pdf",
+    "static/media/App.scss": "/static/media/adminlogin_bg.536bb897.jpg",
+    "static/media/car_ad3.ba1af269.png": "/static/media/car_ad3.ba1af269.png",
+    "static/media/car_ad4.cfeadbb5.png": "/static/media/car_ad4.cfeadbb5.png",
+    "static/media/car_key.a96d10c7.png": "/static/media/car_key.a96d10c7.png",
+    "static/media/delete_icon.c4f0af28.png": "/static/media/delete_icon.c4f0af28.png",
+    "static/media/facebook.7646f22c.png": "/static/media/facebook.7646f22c.png",
+    "static/media/instagram.4ca3e068.png": "/static/media/instagram.4ca3e068.png",
+    "static/media/loading2.d1cd8fd3.svg": "/static/media/loading2.d1cd8fd3.svg",
+    "static/media/twitter.fce8122f.png": "/static/media/twitter.fce8122f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0233debd.js",
+    "static/css/2.0db61e4e.chunk.css",
+    "static/js/2.c7bf82a0.chunk.js",
+    "static/css/main.a02b62b9.chunk.css",
+    "static/js/main.00d1bf8d.chunk.js"
+  ]
+}
