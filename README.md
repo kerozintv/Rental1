@@ -1,9 +1,9 @@
 # Rental1 fiktív autókölcsönző DEMO
+
+
+
+<img src="https://user-images.githubusercontent.com/67935095/139591680-5bf5904e-0f5b-41f0-a3c4-81401ba5a606.png" alt="alt text" width="200" height="150"> <br>
 ## Élő nézet: https://rental1-frontend.herokuapp.com/
-
-
-<img src="https://user-images.githubusercontent.com/67935095/139591680-5bf5904e-0f5b-41f0-a3c4-81401ba5a606.png" alt="alt text" width="200" height="150">
-
 ## Leírás: 
 A Rental1 egy általam kitalált autókölcsönző webalkalmazás, ahol a felhasználó az általa kiválasztott autó modellt, az általa megadott időintervallumban kölcsönözheti ki.
 Az alkalmazás egy React alkalmazás amely a backend műveletekhez egy külön Laravel API-t használ. Az alkalmazás adatbázia egy MySQL adatbázis.
