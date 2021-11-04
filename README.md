@@ -1,4 +1,7 @@
 # Rental1 fiktív autókölcsönző DEMO
+## Élő nézet: https://rental1-frontend.herokuapp.com/
+
+
 <img src="https://user-images.githubusercontent.com/67935095/139591680-5bf5904e-0f5b-41f0-a3c4-81401ba5a606.png" alt="alt text" width="200" height="150">
 
 ## Leírás: 
